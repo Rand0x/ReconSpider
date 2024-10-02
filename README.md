@@ -1,6 +1,8 @@
-# ReconSpider from HackTheBox
-Dependency: scrapy
-`pip3 install scrapy`
+# ReconSpider (HackTheBox)
 
-Usage:<br>
-`python3 reconspider.py <url>`<br>`python3 reconspider.py http://example.com`
+**Dependency:** scrapy  
+Install with: `pip3 install scrapy`
+
+**Usage:**  
+`python3 reconspider.py <url>`  
+Example: `python3 reconspider.py http://example.com`
